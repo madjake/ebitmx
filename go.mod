@@ -1,3 +1,3 @@
-module github.com/Rulox/ebitmx
+module github.com/madjake/ebitmx
 
 go 1.15
