@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Rulox/ebitmx"
+	"github.com/madjake/ebitmx"
 	ebiten "github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
 )
